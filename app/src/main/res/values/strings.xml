@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Quran</string>
+
+    <string name="number_of_aya">عدد الآيات (%1$d)</string>
+
+    <string name="sura_name_title">سورة (%1$s)</string>
+    <string name="click_back_again_to_exit">اضغط مره آخري للخروج</string>
+
+</resources>
